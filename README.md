@@ -17,9 +17,11 @@ This paper used chatgpt3.5 ,
 I used chatgpt4 api
 
 This paper suggests experiment with irrelevant data and tries to figure out the way for model to filter irrelevant words  ,   
+
 I used data's question , answer , con as embedding vectors meaning context.
 
-This paper found impact of irrelevant information
+This paper found impact of irrelevant information               ,
+
 I tried to figure out if embedding space indicates irrelevant vectors , then will model answer fastly than just putting normal original question?
 
 
