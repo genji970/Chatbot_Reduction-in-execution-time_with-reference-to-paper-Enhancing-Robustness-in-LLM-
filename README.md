@@ -25,7 +25,7 @@ I tried to figure out if embedding space indicates irrelevant vectors , then wil
 
 Experiment result : I used just one question. And found out 
 
-original query + no context takes 5.01 seconds
-original query + context takes 4.79seconds
-(original query + irrelevant data) + no context takes 8.86 seconds
-(original query + irrelevant data) + context takes 6.23 seconds
+1) original query + no context takes 5.01 seconds
+2) original query + context takes 4.79seconds
+3) (original query + irrelevant data) + no context takes 8.86 seconds
+4) (original query + irrelevant data) + context takes 6.23 seconds
