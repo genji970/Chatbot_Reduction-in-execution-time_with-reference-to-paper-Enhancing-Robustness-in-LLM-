@@ -3,10 +3,6 @@ Chatbot_Reduction in execution time_with reference to paper "Enhancing Robustnes
 
 ###
 
-If there's any error, plz tell me. I'm looking forward to it !!!!
-
-###
-
 This project gain ideas from recent paper(2024.08) from archive.
 
 authors : Ming Jiang , Tingting Huang , Biao Guo, Yao Lu, Feng Zhang
